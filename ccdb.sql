@@ -8,9 +8,6 @@ DROP Database ccdb;
 -- Create a "ccdb" or call center database
 CREATE DATABASE ccdb;
 
--- Truncate the "ccdb" database 
-TRUNCATE ccdb;
-
 -- Display Databases
 SHOW DATABASES;
 
